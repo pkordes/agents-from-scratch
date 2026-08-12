@@ -339,7 +339,7 @@ response_criteria_7 = """
 """
 
 response_criteria_8 = """
-• Send email with write_email tool call to express interest in registering daughter for swimming class
+• Send email with write_email tool call to express interest in registering daughter for swimming class.  The expression of interest may be expressed as requesting additional information.
 """
 
 response_criteria_9 = """
