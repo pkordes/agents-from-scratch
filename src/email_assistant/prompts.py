@@ -207,7 +207,7 @@ Emails that are worth responding to:
 - Requests from management requiring acknowledgment
 - Client inquiries about project status or features
 - Technical questions about documentation, code, or APIs (especially questions about missing endpoints or features)
-- Personal reminders related to family (wife / daughter)
+- Personal reminders related to family (wife / sons). Wife's email is either kordes@gmail.com or terri.kordes@gmail.com.  Son's emails are either chkordes@gmail.com or hwkordes@gmail.com
 - Personal reminder related to self-care (doctor appointments, etc)
 """
 
